@@ -1,6 +1,0 @@
-transformers
-datasets
-torch
-accelerate
-fastapi
-uvicorn
